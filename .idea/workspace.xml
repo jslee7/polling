@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f8f6933-7083-4cc2-877d-7990cad4d3f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app.body.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app.head.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/poll-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/poll-form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/app.body.html" afterPath="$PROJECT_DIR$/client/app.body.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/app.head.html" afterPath="$PROJECT_DIR$/client/app.head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="polling.iws" />
@@ -59,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.body.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.body.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/app.body.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.461538">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.20272572">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,8 +70,8 @@
       <file leaf-file-name="app.head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/app.head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state vertical-scroll-proportion="-7.1923075">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -89,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="poll-form.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="poll-form.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/poll-form.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19412725">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
@@ -105,8 +103,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Html5" />
         <option value="CSS File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -123,10 +121,10 @@
       <list>
         <option value="$PROJECT_DIR$/collections/polls.js" />
         <option value="$PROJECT_DIR$/server/bootstrap.js" />
-        <option value="$PROJECT_DIR$/client/app.body.html" />
-        <option value="$PROJECT_DIR$/client/app.head.html" />
         <option value="$PROJECT_DIR$/client/poll-form.html" />
         <option value="$PROJECT_DIR$/client/poll-form.css" />
+        <option value="$PROJECT_DIR$/client/app.head.html" />
+        <option value="$PROJECT_DIR$/client/app.body.html" />
       </list>
     </option>
   </component>
@@ -138,8 +136,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="591" />
-    <option name="y" value="315" />
+    <option name="x" value="237" />
+    <option name="y" value="152" />
     <option name="width" value="1456" />
     <option name="height" value="792" />
   </component>
@@ -418,7 +416,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="591" y="315" width="1456" height="792" extended-state="0" />
+    <frame x="237" y="152" width="1456" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -467,6 +465,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/client/poll-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -475,18 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/app.body.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/app.head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -499,10 +497,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/poll-form.css">
+    <entry file="file://$PROJECT_DIR$/client/app.body.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19412725">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.20272572">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
